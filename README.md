@@ -18,6 +18,7 @@
 |----------|-------------|-------|------|
 | [MindScrolling](https://github.com/christianescamilla15-cell/MindScrolling) | App anti doom-scrolling con recomendación híbrida, análisis de sentimiento y 13k+ frases | Flutter · Node.js · pgvector · Claude API | Google Play (Beta) |
 | [WordForge](https://github.com/christianescamilla15-cell/wordforge) | Juego de palabras bilingüe con combos, ligas competitivas y monetización freemium | Flutter · Riverpod · Supabase · RevenueCat | En desarrollo |
+| [QuoteFlow](https://github.com/christianescamilla15-cell/QuoteFlow-Kotlin) | Versión nativa Android de MindScrolling — Kotlin + Jetpack Compose + MVVM + Room + 32 tests | Kotlin · Jetpack Compose · Room · Material 3 | En desarrollo |
 
 ### IA & Automatización — Portafolio Completo
 
