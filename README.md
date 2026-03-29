@@ -1,49 +1,58 @@
 # Christian Hernandez
 
-**AI Systems Engineer** focused on multi-agent orchestration, LLM pipelines, and AI-powered products.
+**AI Systems Engineer** — Multi-agent orchestration, LLM pipelines, and AI-powered products.
 
-Building production AI systems with architecture clarity, measurable outputs, and full-stack execution.
+Building production AI systems with architecture clarity, persistent observability, and measurable execution.
 
 ---
 
+## Flagship System
+
+### [NexusForge AI](https://github.com/christianescamilla15-cell/nexusforge-ai) — [Live Demo](https://frontend-silk-three-66.vercel.app)
+
+Enterprise multi-agent orchestration platform with 3 real business use cases:
+
+| Use Case | Agents | Description |
+|----------|--------|-------------|
+| Enterprise Operations | 8 | Customer request processing: scheduling, contracts, CRM, notifications |
+| Document Intelligence | 7 | Document classification, extraction, validation, summarization |
+| Portfolio Copilot | 6 | Portfolio Q&A with project comparison and skill mapping |
+
+**Infrastructure:** DAG execution · 6 swarm topologies · 3-tier memory · self-healing (5 strategies) · LLM router with circuit breaker · persistent observability · evaluation harness (16 scenarios) · interactive playground · cost tracking
+
+`Python` `FastAPI` `PostgreSQL` `pgvector` `Redis` `Docker` `React` `Groq` `Claude`
+
 ## Featured Systems
 
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| [NexusForge AI](https://github.com/christianescamilla15-cell/nexusforge-ai) | Multi-agent orchestration platform — 22 agents, 6 swarm topologies, self-healing, RAG | Python · FastAPI · pgvector · Redis · Docker | [Demo](https://frontend-silk-three-66.vercel.app) |
-| [MindScrolling](https://github.com/christianescamilla15-cell/MindScrolling) | AI-powered mobile product — adaptive recommendation, behavioral scoring, 13K+ quotes | Flutter · Fastify · Supabase · pgvector | [Play Store](https://github.com/christianescamilla15-cell/MindScrolling/releases) |
-| [Ad Analytics Pipeline](https://github.com/christianescamilla15-cell/ad-analytics-pipeline) | Unified marketing ETL — Meta Ads + Google Ads + GA4, anomaly detection, OCR | Python · FastAPI · React · Docker | [Demo](https://ad-analytics-pipeline.vercel.app) |
+| Project | Description | Links |
+|---------|-------------|-------|
+| [MindScrolling](https://github.com/christianescamilla15-cell/MindScrolling) | AI mobile product — adaptive recommendation, 13K+ quotes, Play Store | [Releases](https://github.com/christianescamilla15-cell/MindScrolling/releases) |
+| [FinanceAI Dashboard](https://github.com/christianescamilla15-cell/finance-ai-dashboard) | Financial analytics — anomaly detection, ML forecasting, 104 tests | [Demo](https://finance-ai-dashboard-omega.vercel.app) |
+| [Ad Analytics Pipeline](https://github.com/christianescamilla15-cell/ad-analytics-pipeline) | Marketing ETL — Meta + Google + GA4, 124 tests | [Demo](https://ad-analytics-pipeline.vercel.app) |
 
 ## Supporting Systems
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| [HRScout LLM](https://github.com/christianescamilla15-cell/hr-scout-llm) | AI candidate screening — 4-agent pipeline, 0-100 scoring, radar chart | [Demo](https://hr-scout-llm.vercel.app) |
+| [HRScout LLM](https://github.com/christianescamilla15-cell/hr-scout-llm) | AI candidate screening — 4-agent pipeline, 0-100 scoring | [Demo](https://hr-scout-llm.vercel.app) |
 | [AI Document Pipeline](https://github.com/christianescamilla15-cell/ai-document-pipeline) | Document intelligence — 4 CrewAI agents, 2 MCP servers | [Demo](https://ai-document-pipeline.vercel.app) |
-| [Playwright Automation](https://github.com/christianescamilla15-cell/playwright-automation) | Browser automation — 3 real scrapers, SQLite scheduler, zero mocks | [GitHub](https://github.com/christianescamilla15-cell/playwright-automation) |
-
-## Core Capabilities
-
-- Multi-agent orchestration and swarm topologies
-- LLM pipelines with retrieval (RAG) and fallback strategies
-- Vector databases (pgvector, FAISS)
-- AI analytics and ETL systems
-- Production testing infrastructure (1,346+ tests across all systems)
-- Full-stack product engineering (React, Flutter, FastAPI)
-
-## Tech Stack
-
-`Python` `FastAPI` `React` `Flutter` `PostgreSQL` `pgvector` `Redis` `Docker` `Terraform` `Kubernetes` `Claude API` `Groq` `LangChain` `CrewAI`
+| [Playwright Automation](https://github.com/christianescamilla15-cell/playwright-automation) | Browser automation — 3 real scrapers, zero mocks | [GitHub](https://github.com/christianescamilla15-cell/playwright-automation) |
 
 ## Key Metrics
 
 | Metric | Value |
 |--------|-------|
 | AI Systems | 18 deployed |
+| Platform Agents | 22 + 21 use-case agents |
 | Tests | 1,346+ automated |
-| Flagship Agents | 22 in NexusForge |
+| Real Use Cases | 3 on NexusForge |
+| Evaluation Scenarios | 16 |
 | Experience | 3+ years with LLMs |
 | RLHF | Scale AI (Claude & GPT-4o) |
+
+## Tech Stack
+
+`Python` `FastAPI` `React` `Flutter` `PostgreSQL` `pgvector` `Redis` `Docker` `Claude API` `Groq` `LangChain` `CrewAI`
 
 ---
 
