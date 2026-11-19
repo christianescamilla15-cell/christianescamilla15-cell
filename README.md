@@ -8,7 +8,7 @@ Building production AI systems with architecture clarity, persistent observabili
 
 ## Flagship System
 
-### [NexusForge AI](https://github.com/christianescamilla15-cell/nexusforge-ai) — [Live Demo](https://frontend-silk-three-66.vercel.app)
+### NexusForge AI — [Live Demo](https://07-nexusforge-ai.vercel.app)
 
 Enterprise multi-agent orchestration platform with 3 real business use cases:
 
